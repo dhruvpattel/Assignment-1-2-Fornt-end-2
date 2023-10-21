@@ -1,0 +1,58 @@
+
+/* Rest of your CSS styles */
+
+.main-content {
+    display: flex;
+}
+.sidebar-list img {
+    margin-right: 10px;
+}
+
+.sidebar-list {
+    list-style: none;
+    padding: 0
+}
+
+.images-link {
+    text-decoration: none; 
+    display: flex;
+    align-items: center; 
+    margin-bottom: 10px; 
+}
+
+.images-link img {
+    max-width: 100px; 
+    max-height: 100px;
+    border-radius: 2px;
+    margin-right: 10px; 
+}
+
+.images-link span {
+    font-size: 16px; 
+}
+
+.article {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex; 
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+}
+
+.column {
+    background-color: #f2f2f2;
+   
+}
+
+
+
+
+
+
+
+
+
